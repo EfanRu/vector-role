@@ -1,5 +1,7 @@
 galaxy_info:
   author: Slava E.
+  namespace: my_galaxy_namespace
+  role-name: vector_role
   description: Role for install Vector.
   company: Netology
   license: MIT

@@ -1,4 +1,4 @@
-Vector-role
+Vector_role
 =========
 
 Install Vector.
@@ -20,7 +20,7 @@ Including an example of how to use your role (for instance, with variables passe
 
     - hosts: servers
       roles:
-         - { role: vector-role }
+         - { role: vector_role }
 
 License
 -------
